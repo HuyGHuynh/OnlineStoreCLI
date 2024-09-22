@@ -1,0 +1,9 @@
+Requirement import:
+import p1
+from p2 import Customer
+import os
+import time
+import datetime
+
+#Compatible OS System: Windows 10
+#PyCharm Version: Community 2021.3

@@ -1,0 +1,20 @@
+White earbuds;01;30;1.2m;In-ear buds lightweight and easily portable
+Black earbuds;02;30;1.2m;In-ear buds lightweight and easily portable
+White headphone;03;47;Full size;Over ear headset for gaming and stationary PC
+Black headphone;04;50;Full size;Over ear headset for gaming and stationary PC
+Pink headphone;05;50;Full size;Over ear headset for gaming and stationary PC
+Backlit white keyboard;06;18;Full size;Full size mechanical keyboard with white backlit
+Backlit black keyboard;07;25;Full size;Full size mechanical keyboard with white backlit
+RGB white keyboard;08;30;Full size;Full size mechanical keyboard with changeable RGB modes
+RGB black keyboard;09;31;Full size;Full size mechanical keyboard with changeable RGB modes
+White M mousepad;10;0;320 x 270 x 3 mm;Low friction for more precise mouse movement
+Black M mousepad;11;17;320 x 270 x 3 mm;Low friction for more precise mouse movement
+Pink M mousepad;12;0;320 x 270 x 3 mm;Low friction for more precise mouse movement
+White extended mousepad;13;45;900 x 400 x 4 mm;Low friction for more precise mouse movement
+Black extended mousepad;14;50;900 x 400 x 4 mm;Low friction for more precise mouse movement
+Pink extended mousepad;15;50;900 x 400 x 4 mm;Low friction for more precise mouse movement
+White mouse;16;0;M;Optical mouse 
+Black mouse;17;30;M;Optical mouse
+White wireless mouse;18;30;M;Optical mouse with a dongle for wireless connection
+Black wireless mouse;19;30;M;Optical mouse with a dongle for wireless connection
+Wireless mouse charger;20;27;M;Optical mouse with a dongle for wireless connection

@@ -1,0 +1,44 @@
+2022-01-10 19:11:17.916939
+Name: Nam Huynh
+Email: namhuynh11@gmail.com
+Phone number: 0898540966
+Address: 45 Sydney Road
+Purchased item:
+3	White extended mousepad
+35	Black mouse
+
+2022-01-10 19:25:51.296541
+Name: Nam Huynh
+Email: namhuynh11@gmail.com
+Phone number: 0898540966
+Address: 45 Sydney Road
+Purchased item:
+2	White extended mousepad
+30	White wireless mouse
+
+2022-01-10 19:30:09.585924
+Name: Nam Huynh
+Email: namhuynh11@gmail.com
+Phone number: 0898540966
+Address: 45 Sydney Road
+Purchased item:
+3	White headphone
+30	White earbuds
+
+2022-01-11 10:26:49.697311
+Name: Van Nguyen
+Email: vannguyen1@gmail.com
+Phone number: 0559370338
+Address: 25 Avila Dr
+Purchased item:
+2	Black M mousepad
+
+2022-01-11 10:47:20.757522
+Name: Doan Ngoc
+Email: ngocdoan27@gmail.com
+Phone number: 0123456789
+Address: 172 St Sligo Street
+Purchased item:
+3	Black M mousepad
+35	Pink M mousepad
+
